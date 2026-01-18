@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Cheung"
+    given-names: "N."
+title: "Phased Pruning in Neural Networks Recapitulates Selectivity–Fragility Trade-Offs in Brain Development"
+version: 1.0.0  # Replace with your actual release tag (e.g., v1.0) if available
+doi: 10.5281/zenodo.18287880
+date-released: 2026-01-18  # Use the actual release/upload date; format YYYY-MM-DD
+repository-code: "https://github.com/cheungngo/Phased-Pruning-in-Neural-Networks-in-Brain-Development"
+keywords:
+  - synaptic-pruning
+  - neural-networks
+  - brain-development
+  - selectivity-fragility
+  - computational-neuroscience
+  - overparameterization
+  - plasticity
+  - developmental-pruning
+license: "CC-BY-4.0"  # Recommended for papers/manuscripts; change to MIT/Apache-2.0 if primarily code-focused
+type: software  # Or "article" if emphasizing the manuscript; "software" fits most computational repos
